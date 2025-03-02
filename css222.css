@@ -1,0 +1,46 @@
+@charset "utf-8";
+.bg_foto1 {
+    background-image: url(IMG_6502.gif);
+    background-position: -103% 0%;
+    background-size: contain;
+}
+.bg_fondo {
+    background-color: #BAFBFF;
+    color: #000000;
+}
+
+.bgfotojugeo1 {
+    background-image: url(IMG_6576.png);
+}
+.bg_fondo3per {
+    background-image: url(images/IMG_6826.png);
+    background-position: 49% -4%;
+    background-size: 598px 208px;
+}
+
+.bg_foto2 {
+    background-image: url(IMG_6501.gif);
+}
+.bg_fondo3 {
+    background-color: #EFA56B;
+}
+.bg_fondo2 {
+    background-color: #FCECCC;
+}
+.bg_fotosalto {
+    background-image: url(images/IMG_6857.gif);
+    background-position: 93% 10%;
+    background-size: 1280px 465px;
+    background-repeat: no-repeat;
+}
+.bg_fondonube {
+    background-image: url(images/clouds-5879037_1920.jpg);
+    background-size: -149px -254px;
+}
+
+.jumbotron {
+    max-width: 1280px;
+    max-height: 1300px;
+    width: 1091px;
+    height: 465px;
+}
